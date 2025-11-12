@@ -1,0 +1,1 @@
+Para reproducir el experimento, ejecutar `compare_standalone.py`. Este script es una versión unificada del repositorio que usé para ejecutar la comparación entre modelos. El output va a ser muy parecido al de las carpetas *logs_compare_202104* y *logs_compare_202106*, aunque puede que no exactamente igual.
